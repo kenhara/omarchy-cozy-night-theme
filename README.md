@@ -4,7 +4,7 @@ A calm, starry **dark** theme for kids: the cool, dependable **Nord** palette pa
 
 ![Preview](preview.png)
 
-> The preview is a placeholder (the wallpaper itself). Replace it with a real desktop screenshot after installing.
+> The preview is a real desktop screenshot. `preview-ethereal.png` and `preview-nighthawk.png` show the theme on the other wallpapers.
 
 ## Install
 
